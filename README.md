@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/c48890ac-fb87-4fa4-bca3-8a3a157cbe6f" />
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Manual+quality+engineer)](https://git.io/typing-svg)
 
 # Привет, меня зовут Ростислав!
 
