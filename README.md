@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://github.com/user-attachments/assets/51065373-916c-4ce2-ac0c-bf430a8342f5" />
- width="100"/>
+
 </div>
 
 # Привет, меня зовут Ростислав!
